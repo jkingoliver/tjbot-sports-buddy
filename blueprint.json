@@ -41,7 +41,5 @@
     "servicePlans": {
       "discovery": "lite"
     }
-  ]
-  "type": "WEB"
-}
+    "type": "WEB"
 }
