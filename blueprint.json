@@ -1,5 +1,5 @@
 {
-  "repoURL": "https://github.com/mikerott/global-citizen",
+  "repoURL": "https://github.com/jkingoliver/tjbot-sports-buddy",
   "blueprint": {
     "generators": {
       "node": [
@@ -29,7 +29,7 @@
       }
     },
     "name": "A Perfect Starter Kit",
-    "description": "It\'s perfect!",
+    "description": "Its perfect!",
     "appIconURL": "https://developer.ibm.com/recipes/wp-content/uploads/sites/41/2017/03/watson_conversations_icon.png",
     "thumbnailURL": "https://developer.ibm.com/recipes/wp-content/uploads/sites/41/2017/03/watson_conversations_icon.png",
     "requiredCapabilitiesURLs": {
@@ -41,7 +41,7 @@
     "servicePlans": {
       "discovery": "lite"
     }
-  ],
+  ]
   "type": "WEB"
 }
 }
