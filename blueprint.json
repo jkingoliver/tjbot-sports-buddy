@@ -40,6 +40,6 @@
     ],
     "servicePlans": {
       "discovery": "lite"
-    }
+    },
     "type": "WEB"
 }
